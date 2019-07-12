@@ -1,0 +1,4 @@
+Implement a Variational Auto-Encoder where
+the generative model (encoder) and variational approximation
+(decoder) have Gaussian outputs. Train the model on MNIST
+dataset using Keras.
