@@ -1,0 +1,5 @@
+1. Design Long Short Term Memory (LSTM) cells for
+counting digits in a sequence 
+
+2. Perform Language modeling
+using Recurrent Neural Network (RNN) with LSTM units.
